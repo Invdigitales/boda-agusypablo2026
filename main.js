@@ -72,7 +72,7 @@ function diaEventoAhora () {
       icon: 'success',
       html:
         'INGRESÁ' +
-        '<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13092.048442482705!2d-58.1287932!3d-34.8810422!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95a2d9e8192a6a87%3A0xe0ee0a515eaec82e!2sLa%20Espina!5e0!3m2!1ses-419!2sar!4v1756933696109!5m2!1ses-419!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>',
+        '<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6820.6119244396405!2d-64.331326!3d-31.267631000000005!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x943282a956aeb473%3A0x5b82fc9c9d94de6b!2sEstancia%20Victoria!5e0!3m2!1ses!2sus!4v1764853109565!5m2!1ses!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>',
         
         
     })
